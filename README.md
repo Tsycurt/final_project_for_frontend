@@ -53,12 +53,36 @@ http://localhost:5173/
 ```
 to see your project running.
 
+ To log in to existed user please you could use either of the next 3 options:
+
+
+1.
+```bash
+username:regular@gmail.com
+
+password:Aa1234!
+```
+
+2.
+```bash
+username: business@gmail.com
+
+
+password: Aa1234!
+```
+3.
+```bash
+username: admin@gmail.com
+
+password: Aa1234!
+```
 Screenshots / Images
 
 ![image](https://github.com/Tsycurt/final_project_for_frontend/assets/114678468/25d5251c-d237-4429-ad86-74d3eddd6a6a)
 ![image](https://github.com/Tsycurt/final_project_for_frontend/assets/114678468/4eec6373-05a8-4411-821a-8b9c0edea0d8)
 ![image](https://github.com/Tsycurt/final_project_for_frontend/assets/114678468/29e07139-d834-45a4-871b-c0374043d125)
-![image](https://github.com/Tsycurt/final_project_for_frontend/assets/114678468/a2dc038d-ecdf-4450-b9af-3c3a768214de)
+![image](https://github.com/Tsycurt/final_project_for_frontend/assets/114678468/01bbbbea-b690-4224-9bd7-24d414ff2e16)
+
 
 ## Recommended Extensions:
 
